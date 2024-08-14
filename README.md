@@ -1,7 +1,7 @@
 # AI-PDF-Summarizer
-Project Overview
+**Project Overview**
 
-This project involves developing an AI-based system to automatically summarize content from PDF documents. The system leverages natural language processing (NLP) techniques to extract key points and generate concise summaries, making it easier to digest large amounts of information quickly.
+This project involves developing an AI-based system to automatically summarize content from PDF documents. The system utilizes advanced natural language processing (NLP) techniques with Google Gemini Pro API, LangChain, and FAISS to extract key points and generate concise summaries, enabling efficient information consumption from large documents.
 
 ## Features
 - PDF Parsing: Converts PDF content into text for analysis.
