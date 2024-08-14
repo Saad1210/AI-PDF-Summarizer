@@ -12,7 +12,7 @@ This project involves developing an AI-based system to automatically summarize c
 ## Tech Stack
 Programming Language : Python 3.10
 
-Libraries
+### Libraries
 - PyPDF2 : For extracting text from PDF documents.
 - Google Gemini Pro API: For advanced NLP and summarization capabilities. 
 - Langchain : For building and managing language models and chains.
